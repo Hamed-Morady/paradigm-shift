@@ -271,9 +271,9 @@ ul.feature-icons {
 
 ul.feature-icons li {
     margin: 2rem 0 0 0;
-    padding: 0rem 0 0 5.5rem;
+    padding: 0rem 0 0 5rem;
     position: relative;
-    width: 22vw;
+    width: 18vw;
     height: 3em;
     display: flex;
     font-family: sans-serif, Helvetica;
